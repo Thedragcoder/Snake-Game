@@ -1,4 +1,4 @@
-# Games-with-python3
+# Snake_Game_with_python3
 Creating some games using python3
 colour codes used: 
 #FBB64E
